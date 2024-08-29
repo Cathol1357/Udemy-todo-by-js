@@ -1,3 +1,3 @@
 # Udemy-todo-by-js
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Cathol1357/Udemy-todo-by-js)
+Udemyの講座「モダンJavaScriptの基礎から始める挫折しないためのReact入門」で作成したコード
